@@ -1,0 +1,5 @@
+firmware/obd_logger/secrets.h
+__pycache__/
+*.pyc
+.DS_Store
+build/
